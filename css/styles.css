@@ -1,4 +1,9 @@
 .highlight {
-  background-color: yellow;
+  background-color: rgb(38, 253, 0);
+  font-weight: bold;
+}
+
+.no-ride {
+  background-color: red;
   font-weight: bold;
 }
